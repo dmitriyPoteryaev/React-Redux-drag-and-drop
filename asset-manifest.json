@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-Redux-drag-and-drop/static/css/main.f96eb753.css",
+    "main.js": "/React-Redux-drag-and-drop/static/js/main.46d51611.js",
+    "index.html": "/React-Redux-drag-and-drop/index.html",
+    "main.f96eb753.css.map": "/React-Redux-drag-and-drop/static/css/main.f96eb753.css.map",
+    "main.46d51611.js.map": "/React-Redux-drag-and-drop/static/js/main.46d51611.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f96eb753.css",
+    "static/js/main.46d51611.js"
+  ]
+}
